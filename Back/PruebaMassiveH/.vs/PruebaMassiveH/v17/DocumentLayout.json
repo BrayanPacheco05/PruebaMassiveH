@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\BrayA\\source\\repos\\PruebaMassiveH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|c:\\users\\braya\\source\\repos\\pruebamassiveh\\pruebamassiveh\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|solutionrelative:pruebamassiveh\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|c:\\users\\braya\\source\\repos\\pruebamassiveh\\pruebamassiveh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|solutionrelative:pruebamassiveh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|c:\\users\\braya\\source\\repos\\pruebamassiveh\\pruebamassiveh\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|solutionrelative:pruebamassiveh\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BrayA\\source\\repos\\PruebaMassiveH\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BrayA\\source\\repos\\PruebaMassiveH\\PruebaMassiveH\\Migrations\\20240801011054_AddBlogCreatedTimestamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PruebaMassiveH\\Migrations\\20240801011054_AddBlogCreatedTimestamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|c:\\users\\braya\\source\\repos\\pruebamassiveh\\pruebamassiveh\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|solutionrelative:pruebamassiveh\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|c:\\users\\braya\\source\\repos\\pruebamassiveh\\pruebamassiveh\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|solutionrelative:pruebamassiveh\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|c:\\users\\braya\\source\\repos\\pruebamassiveh\\pruebamassiveh\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|c:\\users\\braya\\source\\repos\\pruebamassiveh\\pruebamassiveh\\pruebamassiveh.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|solutionrelative:pruebamassiveh\\pruebamassiveh.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|c:\\users\\braya\\source\\repos\\pruebamassiveh\\pruebamassiveh\\migrations\\20240801011054_addblogcreatedtimestamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA28FC04-D3BE-47C5-94D4-57F0A182D212}|PruebaMassiveH\\PruebaMassiveH.csproj|solutionrelative:pruebamassiveh\\migrations\\20240801011054_addblogcreatedtimestamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,24 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": ".filenesting.json",
+              "DocumentMoniker": "C:\\Users\\BrayA\\source\\repos\\PruebaMassiveH\\.filenesting.json",
+              "RelativeDocumentMoniker": ".filenesting.json",
+              "ToolTip": "C:\\Users\\BrayA\\source\\repos\\PruebaMassiveH\\.filenesting.json",
+              "RelativeToolTip": ".filenesting.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T05:14:34.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\BrayA\\source\\repos\\PruebaMassiveH\\PruebaMassiveH\\Program.cs",
               "RelativeDocumentMoniker": "PruebaMassiveH\\Program.cs",
               "ToolTip": "C:\\Users\\BrayA\\source\\repos\\PruebaMassiveH\\PruebaMassiveH\\Program.cs",
               "RelativeToolTip": "PruebaMassiveH\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T23:55:35.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Users\\BrayA\\source\\repos\\PruebaMassiveH\\PruebaMassiveH\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "PruebaMassiveH\\Models\\TodoItem.cs",
@@ -67,18 +84,17 @@
               "RelativeToolTip": "PruebaMassiveH\\Models\\TodoItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:23:14.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:23:14.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TodoItemsController.cs",
               "DocumentMoniker": "C:\\Users\\BrayA\\source\\repos\\PruebaMassiveH\\PruebaMassiveH\\Controllers\\TodoItemsController.cs",
               "RelativeDocumentMoniker": "PruebaMassiveH\\Controllers\\TodoItemsController.cs",
               "ToolTip": "C:\\Users\\BrayA\\source\\repos\\PruebaMassiveH\\PruebaMassiveH\\Controllers\\TodoItemsController.cs",
               "RelativeToolTip": "PruebaMassiveH\\Controllers\\TodoItemsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAxAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAiwG0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T23:56:33.362Z",
               "EditorCaption": ""
@@ -93,8 +109,7 @@
               "RelativeToolTip": "PruebaMassiveH\\Models\\TodoContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:26:37.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:26:37.625Z"
             },
             {
               "$type": "Document",
@@ -106,12 +121,11 @@
               "RelativeToolTip": "PruebaMassiveH\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-31T23:56:46.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T23:56:46.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "20240801011054_AddBlogCreatedTimestamp.cs",
               "DocumentMoniker": "C:\\Users\\BrayA\\source\\repos\\PruebaMassiveH\\PruebaMassiveH\\Migrations\\20240801011054_AddBlogCreatedTimestamp.cs",
               "RelativeDocumentMoniker": "PruebaMassiveH\\Migrations\\20240801011054_AddBlogCreatedTimestamp.cs",
@@ -119,8 +133,7 @@
               "RelativeToolTip": "PruebaMassiveH\\Migrations\\20240801011054_AddBlogCreatedTimestamp.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T01:10:54.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T01:10:54.726Z"
             },
             {
               "$type": "Document",
@@ -132,8 +145,7 @@
               "RelativeToolTip": "PruebaMassiveH\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-31T23:55:52.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T23:55:52.455Z"
             },
             {
               "$type": "Document",
@@ -145,8 +157,7 @@
               "RelativeToolTip": "PruebaMassiveH\\PruebaMassiveH.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-31T23:54:43.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T23:54:43.586Z"
             }
           ]
         }

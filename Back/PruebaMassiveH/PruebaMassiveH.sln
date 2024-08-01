@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaMassiveH", "PruebaMassiveH\PruebaMassiveH.csproj", "{AA28FC04-D3BE-47C5-94D4-57F0A182D212}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaMassiveH", "PruebaMassiveH\PruebaMassiveH.csproj", "{AA28FC04-D3BE-47C5-94D4-57F0A182D212}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{06500120-310C-485D-85D6-42018AA07CBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

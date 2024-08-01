@@ -12,27 +12,23 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<TodoContext>(opt =>
     opt.UseMySql(connectionString, serverVersion));
 
+const string policyName = "CorsPolicy";
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy(name: MyAllowSpecificOrigins,
-                      policy =>
-                      {
-                          policy.WithOrigins("*")
-                          ;
-                      });
+    options.AddPolicy(name: policyName, builder =>
+    {
+        builder.AllowAnyOrigin()
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
 });
 
 
 
 var app = builder.Build();
-
-// Configure the HTTP request pipeline.
-
-app.UseHttpsRedirection();
-
-app.UseCors(MyAllowSpecificOrigins);
+app.UseRouting();
+app.UseCors(policyName);
 app.UseAuthorization();
-
 app.MapControllers();
 
 app.Run();
