@@ -21,6 +21,7 @@ git clone https://github.com/BrayanPacheco05/PruebaMassiveH.git --recurse-submod
 ### Después hacer un dotnet restore
 ### Después configurar el archivo de appsettings.json para añadir la cadenas de conexión de la base de datos
 ```bash
+dotnet ef database update
 dotnet run
 ```
 # Front-end
